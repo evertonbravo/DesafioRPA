@@ -1,4 +1,4 @@
-# RPA - Serviçoes
+# RPA - Serviços
 è a web api que recebe as informações dos cursos e salva no banco de dados.
 
 ### Porque foi desenvolvido?
